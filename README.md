@@ -1,4 +1,4 @@
-# Article Title: Error bounds of Kernel Extended Dynamic Mode Decomposition with lifted back trajectories
+# Error bounds of Kernel Extended Dynamic Mode Decomposition with lifted back trajectories
 
 ## Authors
 - Diego Olguín
