@@ -7,8 +7,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - plotly
   - scipy
   - scikit-learn
   - ipython
-  - kaleido
